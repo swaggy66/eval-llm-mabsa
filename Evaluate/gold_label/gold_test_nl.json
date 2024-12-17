@@ -1,0 +1,4064 @@
+[
+    {
+        "sentence": "Wij hebben hier heel lekker gegeten .",
+        "result": []
+    },
+    {
+        "sentence": "Hoewel ik op voorhand las dat de kok bepaald wat je eet , is dit niet correct of heeft het restaurant dit aangepast .",
+        "result": []
+    },
+    {
+        "sentence": "Er was namelijk een menu ofwel 3 gangen ofwel 4 gangen met telkens per gang 3 tot 4 keuzes .",
+        "result": [
+            {
+                "entity": "menu",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Ik vind dit ruim voldoende , zeker omdat het restaurant bekend staat om zijn Wagyu runderen en Mangalica varkens , dan wordt er meestal voor deze opties gekozen .",
+        "result": []
+    },
+    {
+        "sentence": "Indien men geen vlees liefhebber is , is er ook telkens een vis optie .",
+        "result": []
+    },
+    {
+        "sentence": "Samenvatting : goede bediening , lekker ( hoger niveau ) eten en mooie locatie .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "locatie",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Dit alles voor een zeer schappelijke prijs !",
+        "result": []
+    },
+    {
+        "sentence": "Bediening : Je zaak laten runnen door onervaren jobstudenten is nooit een goede zaak .",
+        "result": [
+            {
+                "entity": "Bediening",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Duidelijk onderbemand , veel te lang wachten op water , brood , wijnkaart ...",
+        "result": []
+    },
+    {
+        "sentence": "Geen kennis van de wijnkaart , laat staan van de wijnen per glas ( veel te beperkt btw ) .",
+        "result": [
+            {
+                "entity": "wijnen",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Eten : Rare combinaties , hapje vooraf stimuleert de eetlust niet ( te pikant en te complex ) .",
+        "result": [
+            {
+                "entity": "Eten",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "hapje",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "voorgerecht was niet verfijnd , gefrituurde pijlinktvis die overheerst werd door een te vet beslag .",
+        "result": [
+            {
+                "entity": "gefrituurde pijlinktvis",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Wildvang gamba was ok maar tom.saus erbij was te overheersend .",
+        "result": [
+            {
+                "entity": "Wildvang gamba",
+                "sentiment": "neutral"
+            },
+            {
+                "entity": "tom.saus",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Hoofdgerecht was dorade in zoutkorst , heel goed , correct , niets mis mee .",
+        "result": [
+            {
+                "entity": "dorade in zoutkorst",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Lamsossobuco ... het was lamsbout ... wees eerlijk in uw kaart .",
+        "result": [
+            {
+                "entity": "Lamsossobuco",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Conclusie : ik had veel meer verwacht gezien de reputatie .",
+        "result": []
+    },
+    {
+        "sentence": "Prijs kwaliteit verhouding lijkt me wel ok maar zet ervaren personeel in de zaal en verbeter hiermee je persoonlijk touch met de buurt .",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ik denk niet dat ik snel terug zal komen .",
+        "result": []
+    },
+    {
+        "sentence": "Gezellig tafelen in een bistro met aangename sfeer .",
+        "result": [
+            {
+                "entity": "bistro",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De Royal all inclusief menu genomen aan een democratische prijs van 42 € .",
+        "result": [
+            {
+                "entity": "Royal all inclusief menu",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Amuse , voorgerecht , sorbet , hoofdgerecht en dessert bordje van de chef .",
+        "result": []
+    },
+    {
+        "sentence": "Dit met water en 2 glazen wijn per persoon .",
+        "result": []
+    },
+    {
+        "sentence": "Een echte aanrader , waar de steak Rossini perfect gebakken was en zeer mals .",
+        "result": [
+            {
+                "entity": "steak Rossini",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Hier kom ik zeker terug .",
+        "result": []
+    },
+    {
+        "sentence": "Uiteraard ook a la carte mogelijk .",
+        "result": []
+    },
+    {
+        "sentence": "Men kan ook gezellig iets drinken op het terras .",
+        "result": []
+    },
+    {
+        "sentence": "Restaurant de zuiderparel is gesloten en heeft een doorstart gemaakt als cafe brasserie .",
+        "result": []
+    },
+    {
+        "sentence": "Dit betekent dat ze zeer aan kwaliteit hebben ingeboet zonder het nieuwe concept van gezelligheid , laagdrempeligheid , bistrokeuken .",
+        "result": []
+    },
+    {
+        "sentence": "Kleine maar gezellige zaak met prima bediening .",
+        "result": [
+            {
+                "entity": "zaak",
+                "sentiment": "neutral"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Beperkte kaart maar uiterst lekker !",
+        "result": [
+            {
+                "entity": "kaart",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "We namen een voorgerecht , hoofdgerecht en nagerecht en alles was perfect !",
+        "result": []
+    },
+    {
+        "sentence": "De prijs viel uiteindelijk ook nog wel mee ( ongeveer 60 euro per persoon wijn en koffie inbegrepen )",
+        "result": []
+    },
+    {
+        "sentence": "Spijtig genoeg zijn ze enkel in de week open .",
+        "result": []
+    },
+    {
+        "sentence": "( Toch ook best reserveren )",
+        "result": []
+    },
+    {
+        "sentence": "Bediening is zeer goed , zeer mooie trendy retro interieur .",
+        "result": [
+            {
+                "entity": "Bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "retro interieur",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Teaser ( warm drankje met maltesers ) zeer lekker .",
+        "result": [
+            {
+                "entity": "Teaser",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Goed prijs / kwaliteit + sfeer !",
+        "result": [
+            {
+                "entity": "sfeer",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Aan te raden !",
+        "result": []
+    },
+    {
+        "sentence": "Reeds voor de 2de maal te gast in deze zaak .",
+        "result": []
+    },
+    {
+        "sentence": "Opnieuw werden we culinair in de watten gelegd en konden we genieten van ontzettend heerlijke gerechten die als kunstwerkjes gepresenteerd werden .",
+        "result": [
+            {
+                "entity": "gerechten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Dit alles overgoten met een beetje droge humor en het originele concept , maken van deze zaak één van mijn favorieten !",
+        "result": [
+            {
+                "entity": "concept",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "zaak",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Culinair topniveau voor een eerlijke prijs !",
+        "result": []
+    },
+    {
+        "sentence": "Mijn favoriet !",
+        "result": []
+    },
+    {
+        "sentence": "Puur genot van begin tot einde ...",
+        "result": []
+    },
+    {
+        "sentence": "Fantastische smaakbommen met verrassende structuren en combinaties ... elk gerecht is een kunstwerk .",
+        "result": [
+            {
+                "entity": "gerecht",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Pure klasse !",
+        "result": []
+    },
+    {
+        "sentence": "Ik hou ook heel erg van het vleugje humor dat je overal kan ontdekken .",
+        "result": []
+    },
+    {
+        "sentence": "Een beleving waar je graag met een glimlach aan terugdenkt en snakt naar de volgende reservatie .",
+        "result": []
+    },
+    {
+        "sentence": "Interieur en sfeer in dit restaurant zijn prima .",
+        "result": [
+            {
+                "entity": "Interieur",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "sfeer",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De bediening is correct maar zou beter kunnen .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "We vonden hier niet de typische Thaise vriendelijkheid en hartelijkheid terug .",
+        "result": []
+    },
+    {
+        "sentence": "We aten het Discovery menu ( via een Groupon bon ) .",
+        "result": []
+    },
+    {
+        "sentence": "Op basis van wat we voorgeschoteld kregen zouden we niet graag de volle prijs betalen .",
+        "result": []
+    },
+    {
+        "sentence": "Eerder kleine porties ( wat nog aanvaardbaar kan zijn gezien de bon ) , eten was eerder lauw ipv warm .",
+        "result": [
+            {
+                "entity": "porties",
+                "sentiment": "neutral"
+            },
+            {
+                "entity": "eten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Het was zeker vers maar de meeste gerechten waren eerder flauwtjes .",
+        "result": [
+            {
+                "entity": "gerechten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij kwamen met een Groupon bon terecht bij dit restaurant .",
+        "result": []
+    },
+    {
+        "sentence": "Hadden ingetekend op een Discovery setmenu .",
+        "result": []
+    },
+    {
+        "sentence": "Het eten op zich was erg lekker maar we hadden het gevoel dat de actie aan bij benadering de helft van de prijs ook maar de helft van de normale portie inhield .",
+        "result": [
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "portie",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Het was zo erg weinig dat we enorm teleurgesteld buiten zijn gegaan , zelfs de actieprijs leek ons nog veel voor wat we kregen .",
+        "result": []
+    },
+    {
+        "sentence": "Ik ben geen grote eter maar het was gewoon lachwekkend weinig , ik denk dat er in totaal nog geen 100g vlees / kip / scampi in het geheel terug te vinden was .",
+        "result": [
+            {
+                "entity": "vlees / kip / scampi",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "En dan een klein soepkommetje rijst erbij , dat ook voor ons beiden bleek te zijn .",
+        "result": [
+            {
+                "entity": "rijst",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "( de foto op de site van de discoverymenu is correct , alleen lijkt het daar alsof je dat per persoon krijgt ipv per twee ) .",
+        "result": []
+    },
+    {
+        "sentence": "Afgelopen vrijdag hier gegeten .",
+        "result": []
+    },
+    {
+        "sentence": "Het was weer heel erg lekker .",
+        "result": []
+    },
+    {
+        "sentence": "Het blijft goed .",
+        "result": []
+    },
+    {
+        "sentence": "Eten is lekker vers belgische gerechten goed bier /",
+        "result": [
+            {
+                "entity": "Eten",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bier",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Maar ook ( alleen als je gereserveerd hebt ) heel erg goed , lekker , uitgebreid ontbijt .",
+        "result": [
+            {
+                "entity": "ontbijt",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Prijs kwaliteit verhouding heel goed .",
+        "result": []
+    },
+    {
+        "sentence": "Zeer vriendelijk attent personeel .",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Bij mooi weer lekker buiten zitten .",
+        "result": []
+    },
+    {
+        "sentence": "We komen weer terug .",
+        "result": []
+    },
+    {
+        "sentence": "Restaurant ligt aan een pleintje",
+        "result": []
+    },
+    {
+        "sentence": "Gezellige sfeer",
+        "result": []
+    },
+    {
+        "sentence": "Ontzettend gastvrij personeel",
+        "result": []
+    },
+    {
+        "sentence": "Je voelt je er echt thuis .",
+        "result": []
+    },
+    {
+        "sentence": "( welkom )",
+        "result": []
+    },
+    {
+        "sentence": "Zeer goede kwaliteit , mooi opgemaakte borden goede porties , ( geen liflafjes ) 100 % aanrader .",
+        "result": [
+            {
+                "entity": "kwaliteit",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "borden",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "porties",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Wild vegatarisch pasta kindermenu",
+        "result": []
+    },
+    {
+        "sentence": "Als je voor de lunch gaat garnalenkroketten",
+        "result": []
+    },
+    {
+        "sentence": "Heerlijk .",
+        "result": []
+    },
+    {
+        "sentence": "Het is altijd weer een feest om hier te eten .",
+        "result": []
+    },
+    {
+        "sentence": "Voor 50 euro geniet je van de fantastische thaische keuken , de persoonlijke bediening en de gezellige huiselijke sfeer .",
+        "result": [
+            {
+                "entity": "thaische keuken",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "sfeer",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Eerst een aperitiefje in de mooie tuin en dan hebben we ons laten verassen met heerlijke gerechten .",
+        "result": [
+            {
+                "entity": "tuin",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "gerechten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Vooral de zeevruchtensalade kon ons erg bekoren .",
+        "result": [
+            {
+                "entity": "zeevruchtensalade",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Zeker een aanrader ... met 2 of in groep .",
+        "result": []
+    },
+    {
+        "sentence": "Wel reserveren !",
+        "result": []
+    },
+    {
+        "sentence": "fantastisch lekker , schitterende presentatie van de gerechtjes , unieke combinaties , vlotte , doch geen stijfdeftige bediening .",
+        "result": [
+            {
+                "entity": "gerechtjes",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Enige minpuntje vond ik het rumoerige kader .",
+        "result": [
+            {
+                "entity": "kader",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Er zat een heel luidruchtige groep naast ons en het interieur gaf onvoldoende demping waardoor ik we elkaar soms met moeite konden verstaan .",
+        "result": [
+            {
+                "entity": "interieur",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Verder is het behoorlijk prijzig , maar je krijgt absoluut waar voor je geld .",
+        "result": []
+    },
+    {
+        "sentence": "Een aanrader !",
+        "result": []
+    },
+    {
+        "sentence": "Gisteren eens gaan testen te Ninove met z ' n drieën en we waren allemaal heel tevreden .",
+        "result": []
+    },
+    {
+        "sentence": "Was erg lekker en heel vriendelijk personeel , we dit zeker nog doen .",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Hopelijk ontdekken nog veel andere mensen dit plekje !",
+        "result": []
+    },
+    {
+        "sentence": "In september beginnen ze met buffetvorm , gaan we zeker van alles gaan proeven !",
+        "result": []
+    },
+    {
+        "sentence": "Een echte aanrader !",
+        "result": []
+    },
+    {
+        "sentence": "Er op uit om eens lekker Indisch te gaan eten zoals in Londen .",
+        "result": []
+    },
+    {
+        "sentence": "Bestellen een soepje met groenten : precies een slechte minestrone met zwevende groentenblokjes in een wazig vocht .",
+        "result": [
+            {
+                "entity": "soepje met groenten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "En dan wachten en wachten en nog eens wachten en ondertussen is je drinken reeds op en niemand heeft dat gezien .",
+        "result": []
+    },
+    {
+        "sentence": "En uiteindelijk kwam het hoofdgerecht .",
+        "result": []
+    },
+    {
+        "sentence": "Een echte teleurstelling qua kruiding en smaak .",
+        "result": []
+    },
+    {
+        "sentence": "Als je Indisch wil serveren doe het dan op de Indische manier met vele kleine gerechtjes in potjes en wat naân erbij en graag spicy rijst .",
+        "result": []
+    },
+    {
+        "sentence": "Een Indisch menu kan niet bestaan uit soep , voorgerecht , hoofdgerecht , ... , dessert zoals de Westerse keuken .",
+        "result": []
+    },
+    {
+        "sentence": "Probeer origineel te blijven !",
+        "result": []
+    },
+    {
+        "sentence": "Ik moet eerlijk zijn dat dit de minst goede indier is waar ik ooit ben gaan eten .",
+        "result": [
+            {
+                "entity": "indier",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Er is ook nooit geen volk , wat natuurlijk ook al een teken is .",
+        "result": []
+    },
+    {
+        "sentence": "Wij zijn er gaan eten met een bon .",
+        "result": []
+    },
+    {
+        "sentence": "We kregen wel genoeg , dat wel , maar het was niet echt heel smaakvol .",
+        "result": []
+    },
+    {
+        "sentence": "Vriendelijke bediening , de uitbater is steeds bereidt om een praatje te maken zelfs als het druk is .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "uitbater",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De bediening is zeer vlot .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Je moet nooit lang wachten op lekkere frietjes .",
+        "result": [
+            {
+                "entity": "frietjes",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Zeker een aanrader , ook als je rustig in het aanpalende restaurantgedeelte wilt zitten .",
+        "result": []
+    },
+    {
+        "sentence": "Goede frituur , nergens in Hasselt kan je voor deze prijzen frieten eten .",
+        "result": [
+            {
+                "entity": "frituur",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "frieten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De service is snel en vriendelijk , het restaurant is gezellig .",
+        "result": [
+            {
+                "entity": "service",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het enige nadeel is dat er iets aan het afzuigsysteem mag gedaan worden ( als ze er al een hebben ) , als je er 5 minuten binnen bent kan iedereen ruiken dat je van de Marmiet komt .",
+        "result": [
+            {
+                "entity": "Marmiet",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Zeer leuk restaurant met betere gerechten gebracht aan democratische prijzen .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "gerechten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Vandaag gaan we mosselen proberen .",
+        "result": []
+    },
+    {
+        "sentence": "Later meer .",
+        "result": []
+    },
+    {
+        "sentence": "De tapas vooraf waren alvast een voltreffer .",
+        "result": [
+            {
+                "entity": "tapas",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De chef serveert bij elk gerecht de passende bieren .",
+        "result": []
+    },
+    {
+        "sentence": "De wijn hebben we vandaag aan ons voorbij laten gaan .",
+        "result": []
+    },
+    {
+        "sentence": "Buitengewone ontvangst door een lieve gastvrouw .",
+        "result": [
+            {
+                "entity": "gastvrouw",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het is een klein maar heel gezellig restaurant , je moet absoluut reserveren .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De kaart wisselt regelmatig en is klein .",
+        "result": [
+            {
+                "entity": "kaart",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Dat vind ik altijd een voordeel voor een goed restaurant .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De gerechten die op tafel komen zijn prachtig gepresenteerd en verrukkelijk vergezeld van het uitstekende wijnadvies van de gastvrouw .",
+        "result": [
+            {
+                "entity": "gerechten",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "gastvrouw",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Dit is puur verwennerij .",
+        "result": []
+    },
+    {
+        "sentence": "Sfeer heel gezellig , eten echt topniveau .",
+        "result": [
+            {
+                "entity": "Sfeer",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "met een bon naar la vache qui suisse geweest .",
+        "result": []
+    },
+    {
+        "sentence": "na vele ontgoochelingen met bonnen hebben we hier heel goed gegeten , vriendelijke bediening , origineel , bv de aardappelen in de schil in een jutte zak , mooi ! ! !",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "aardappelen in de schil",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "we gaan hier zeker nog eens terug bv voor een kaasfondue rook ook zeer lekker",
+        "result": []
+    },
+    {
+        "sentence": "Je krijgt wat je mag verwachten .",
+        "result": []
+    },
+    {
+        "sentence": "Lekkere fondue , goede bediening .",
+        "result": [
+            {
+                "entity": "fondue",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Niets op aan te merken .",
+        "result": []
+    },
+    {
+        "sentence": "Uiteraard leuker in de wintermaanden dan in de zomer , nogal wiedes",
+        "result": []
+    },
+    {
+        "sentence": "Was al enkele jaren geleden dat ik nog in de Orangerie geweest was .",
+        "result": []
+    },
+    {
+        "sentence": "Nooit meer !",
+        "result": []
+    },
+    {
+        "sentence": "Scampi in een dikke bloemige saus geen smaak .",
+        "result": [
+            {
+                "entity": "Scampi",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Steak bearnaise : saus was te dik en te koud om over het vlees te gieten .",
+        "result": [
+            {
+                "entity": "Steak bearnaise",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Walgelijk .",
+        "result": []
+    },
+    {
+        "sentence": "Zelfs uit een pot is het beter .",
+        "result": []
+    },
+    {
+        "sentence": "Frietjes hadden een rare bijsmaak .",
+        "result": [
+            {
+                "entity": "Frietjes",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Vriendin had een stoofpotjes van kabeljauw daar kon je een vork in recht zetten .",
+        "result": [
+            {
+                "entity": "stoofpotjes van kabeljauw",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Personeel wel vriendelijk , maar moesten wel wat snel beslissen wat we wilden alhoewel er maar één ander koppel in het restaurant zat .",
+        "result": [
+            {
+                "entity": "Personeel",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Nooit meer ! ! ! .",
+        "result": []
+    },
+    {
+        "sentence": "110 euro betaald voor wat je nog in geen frituur zou krijgen .",
+        "result": []
+    },
+    {
+        "sentence": "Zéér goede ligging en prima terras .",
+        "result": [
+            {
+                "entity": "ligging",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "terras",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De bediening is nonchalant en de keuken traag .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "keuken",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Als de zaak vol zit dan is er een probleem wat zich vertaald in trage bediening en fouten .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "De salade nicoise is echt géén topper gewoon wat tonijn uit blik met sla , zonder veel inspiratie .",
+        "result": [
+            {
+                "entity": "salade nicoise",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Jammer , want voor de gevraagde prijs verwacht je echt meer . van deze leuke zaak .",
+        "result": [
+            {
+                "entity": "zaak",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "En nog heel lekker gegeten ook !",
+        "result": []
+    },
+    {
+        "sentence": "We volgden de aanrader van de ober : de platte oesters zijn binnen en ze waren inderdaad heerlijk .",
+        "result": [
+            {
+                "entity": "platte oesters",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Lekker restaurant gekend voor zijn mooie malse stukken vlees ( entrecote , filet pur , steaks ) doch ook heel lekkere garnaalkroketjes , stoofvlees .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "vlees",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "garnaalkroketjes",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "bediening is snel en vriendelijk doch soms een beetje gevoel van te weinig persoonlijke touch door grote van restaurant .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "aparte inkom en zeer goed persoonlijk onthaal elke blik in het antieke interieur belicht of een oude pop , juweel , handtas .. bediening zeer nauwgezet en kwaliteitskreeften buitengewoon",
+        "result": [
+            {
+                "entity": "inkom",
+                "sentiment": "neutral"
+            },
+            {
+                "entity": "onthaal",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "kwaliteitskreeften",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Zeer gezellig restaurant met nostalgie wij aten kreeft menu Eliot nog nooit aten wij zo lekkere kreeftjes zeer vers en op een lekkere manier klaargemaakt de bediening top zeer sociaal en deze mensen weten hoe de klanten te bedienen echt top doe zo verder",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "kreeftjes",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Wanneer je in Gent bent , moet je er heen !",
+        "result": []
+    },
+    {
+        "sentence": "Geweldig kreeftenrestaurant .",
+        "result": [
+            {
+                "entity": "kreeftenrestaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Kreeft op verschillende wijze te verkrijgen .",
+        "result": [
+            {
+                "entity": "Kreeft",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Zeer sappig en kruidig geserveerd .",
+        "result": []
+    },
+    {
+        "sentence": "In het restaurant zelf : zeer veel prullaria die de sfeer in het restaurant ten goede komen .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Vriendelijke bediening !",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De nieuwe site van het restaurant binnen de muren van het Mariott hotel oogt dan wel prestigieus , en is het ook wel .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Deze cateraar van oorsprong blijft beter bij zijn leest .",
+        "result": [
+            {
+                "entity": "cateraar",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Een eerder bezoek aan het restaurant in Onderbergen was best ok : mooie wijnkaart , verfijnde menu ' s ( meervoud ) .",
+        "result": []
+    },
+    {
+        "sentence": "Recent met klanten het restaurant op de nieuwe locatie bezocht .",
+        "result": []
+    },
+    {
+        "sentence": "Slechts één menuutje om uit te kiezen , de full menu of de afgeslankte versie ( door het schrappen van een of meer gangen ) , aangevuld met enkele à la carte keuzes .",
+        "result": [
+            {
+                "entity": "menuutje",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "De sterkte van een keuken kan in de eenvoud liggen , deze was echt wel heel eenvoudig voor zo ' n 55 euro excl wijnen , hiervoor kan je in Gent beter aan de dis : Karel de Stoute , House of Elliott , Grade e.a.",
+        "result": [
+            {
+                "entity": "keuken",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "De bediening door jonge obers kon bovendien professioneler .",
+        "result": [
+            {
+                "entity": "obers",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Het interieur van dit restaurant zal wel ' uitgepuurd ' worden genoemd , het is kil , biedt slechts een matige ' hotelsfeer ' .",
+        "result": [
+            {
+                "entity": "interieur",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Op de keurig gesteven servetten na , was er geen stof te bespeuren op de tafels .",
+        "result": []
+    },
+    {
+        "sentence": "In een restaurant als le Grand Bleu is dat een stijlkenmerk , gezien de doorleefde stijl : oude tafels , mix van soorten stoelen e.d.",
+        "result": []
+    },
+    {
+        "sentence": "Hier laat het een koude indruk na , in combinatie met matige uitvoering van de gerechten ...",
+        "result": []
+    },
+    {
+        "sentence": "Dit restaurant laat ik als bourgondiër met oog voor de fijne keuken toch maar aan mij voorbijgaan in de toekomst .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Much ado about nothing !",
+        "result": []
+    },
+    {
+        "sentence": "We hadden s ' ochtends gereserveerd en bij aankomst bleek het toch even uitkijken naar een tafeltje .",
+        "result": []
+    },
+    {
+        "sentence": "Tafel achteraan aan de keukenramen , intiem diner met twee , gestationeerd naast luidruchtige Aalsterse groep ( niet echt ideaal ) .",
+        "result": [
+            {
+                "entity": "Tafel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Aperitief Hugo , zeer lekker , mooi gepresenteerd .",
+        "result": [
+            {
+                "entity": "Aperitief Hugo",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Vroegen 3 gangenmenu + glas wit bij voorgerecht en glas rood bij hoofdgerecht .",
+        "result": []
+    },
+    {
+        "sentence": "Het laatste hebben we nooit gezien ...",
+        "result": [
+            {
+                "entity": "Het laatste",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Hapje ( te delen ) was zeer lekker , rundstartaar .",
+        "result": [
+            {
+                "entity": "Hapje",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Voorgerecht ( st jacobsvrucht ) vond ik niet overtuigend en niet koud genoeg om koud voorgerecht te zijn en iets te lauw om warm voorgerecht te zijn ...",
+        "result": [
+            {
+                "entity": "Voorgerecht",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Hoofdgerecht ( eend ) was ok van smaak ( saus was lekker ) maar aardappeltjes waren niet krokant gebakken en eend was taai .",
+        "result": [
+            {
+                "entity": "Hoofdgerecht",
+                "sentiment": "neutral"
+            },
+            {
+                "entity": "saus",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "aardappeltjes",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Dessert was teleurstellend , kwam METEEN na hoofdgerecht en de chocolade die bij de beschrijving stond was niet terug te vinden .",
+        "result": [
+            {
+                "entity": "Dessert",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Persoonlijk was ik wat teleurgesteld in de prijs / kwaliteit .",
+        "result": []
+    },
+    {
+        "sentence": "De pizza ' s zijn heel lekker , snelle bediening , en het personeel is heel vriendelijk ! !",
+        "result": [
+            {
+                "entity": "pizza ' s",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "personeel",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Top restaurant ; )",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het uiterlijk van het restaurant oogt simpel , maar het eten is dat absoluut niet !",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Kaart is bijzonder door de grote hoeveelheid pizza ' s .",
+        "result": [
+            {
+                "entity": "Kaart",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Bediening is zeer vriendelijk .",
+        "result": [
+            {
+                "entity": "Bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Ik ben zowiezo een grote ijsjes fan , dus heb al op heel wat plaatsen ijsjes gehad , maar dit is echt het beste ijs wat ik al ooit gehad heb !",
+        "result": [
+            {
+                "entity": "ijs",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Mmmmmm ....",
+        "result": []
+    },
+    {
+        "sentence": "Ik kijk al uit naar het volgende bezoekje !",
+        "result": []
+    },
+    {
+        "sentence": "Tijdens mijn studie in Leuven heb ik Decadenza zien uitgroeien tot een populaire ijszaak .",
+        "result": []
+    },
+    {
+        "sentence": "Nu woon ik in Berlijn en elke keer als ik terug in België ben haast ik me naar Leuven voor een bol écht ijs van Decadenza .",
+        "result": [
+            {
+                "entity": "ijs",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Beste dat ik tot nu toe heb gehad !",
+        "result": []
+    },
+    {
+        "sentence": "Goede prijs en kwaliteit .",
+        "result": []
+    },
+    {
+        "sentence": "Bediening voor Belgische begrippen erg goed .",
+        "result": [
+            {
+                "entity": "Bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Brede keuze op de kaart met veel variatie .",
+        "result": [
+            {
+                "entity": "kaart",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "In een bijna leeg restaurant ( 4 tafels bezet ) gegeten .",
+        "result": []
+    },
+    {
+        "sentence": "Dat is op zich niet erg , maar de bediening was meer met elkaar bezig dan met de gasten .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "We moesten erg lang wachten alvorens er werd afgeruimd en opgenomen voor t dessert .",
+        "result": []
+    },
+    {
+        "sentence": "De muziek die absoluut niet in een restaurant past , werd tijdens het diner ineens hard gezet .",
+        "result": [
+            {
+                "entity": "muziek",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Pinnen met een nl bankpas was niet mogelijk .",
+        "result": []
+    },
+    {
+        "sentence": "Ook creditcard werd niet geaccepteerd .",
+        "result": []
+    },
+    {
+        "sentence": "Heerlijk gegeten voor een zeer schappelijke prijs .",
+        "result": []
+    },
+    {
+        "sentence": "Het hammetje in mosterdsaus is een overvloedig stuk mals vlees met een knapperige salade .",
+        "result": [
+            {
+                "entity": "hammetje in mosterdsaus",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De huisgemaakte chocolademousse als toetje kon er nog net bij .",
+        "result": [
+            {
+                "entity": "chocolademousse",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij komen zeker terug !",
+        "result": []
+    },
+    {
+        "sentence": "Wij aten de tongreepjes aan 30 € , ze waren smaakloos en zeer klein ( 4 brokjes ) .",
+        "result": [
+            {
+                "entity": "tongreepjes",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ook de wijn , 14 € voor een kleine 1 / 2L , stelde niets voor .",
+        "result": [
+            {
+                "entity": "wijn",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Blijkbaar , en hopelijk , ben je met een stuk vlees hier beter gediend .",
+        "result": []
+    },
+    {
+        "sentence": "Persoon X",
+        "result": []
+    },
+    {
+        "sentence": "Een begrip in Leuven met de klassieke Italiaanse gerechten met wat aanpassingen voor de Belgische fijnproevers .",
+        "result": [
+            {
+                "entity": "Italiaanse gerechten",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Bestaat misschien wel reeds 50 jaar en is nog steeds trouw aan zichzelf .",
+        "result": []
+    },
+    {
+        "sentence": "Ik passeerde er iedere dag en zag steeds veel volk binnen dus dacht ik eens binnen te gaan .",
+        "result": []
+    },
+    {
+        "sentence": "Bediening was ok , interieur vrij saai en oud .",
+        "result": [
+            {
+                "entity": "Bediening",
+                "sentiment": "neutral"
+            },
+            {
+                "entity": "interieur",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Eten was een teleurstelling .",
+        "result": [
+            {
+                "entity": "Eten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Vispannetje was bijvoorbeeld koud en helemaal niet vers .",
+        "result": [
+            {
+                "entity": "Vispannetje",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Voor die prijs kan je veel beter gaan eten in Leuven als je de goede plaatsjes kent .",
+        "result": []
+    },
+    {
+        "sentence": "Ik kan niet zeggen dat het geweldig was maar ook niet slecht .",
+        "result": []
+    },
+    {
+        "sentence": "Zowel voor bediening als het eten .",
+        "result": []
+    },
+    {
+        "sentence": "Ik vind het ook wat duur voor wat we hebben gekregen .",
+        "result": []
+    },
+    {
+        "sentence": "Heel duur voor wat het is .",
+        "result": []
+    },
+    {
+        "sentence": "Borden niet proper afgewassen , zien er vettig uit .",
+        "result": [
+            {
+                "entity": "Borden",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Stoofvlees precies vanuit de frituur .",
+        "result": [
+            {
+                "entity": "Stoofvlees",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Frieten vanuit de diepvrieszakken ..",
+        "result": [
+            {
+                "entity": "Frieten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Geld zeker niet waard !",
+        "result": []
+    },
+    {
+        "sentence": "Wat een teleurstelling",
+        "result": []
+    },
+    {
+        "sentence": "Zeer lekker getafeld .",
+        "result": []
+    },
+    {
+        "sentence": "Prijs kwaliteit uitstekend .",
+        "result": []
+    },
+    {
+        "sentence": "De chocolade mouse was verrukkelijk .",
+        "result": [
+            {
+                "entity": "chocolade mouse",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Hammetje met mosterdsaus .",
+        "result": []
+    },
+    {
+        "sentence": "Het water komt me terug in de mond .",
+        "result": []
+    },
+    {
+        "sentence": "Voor mij is restaurant Zeno een van de topadresjes in Brugge .",
+        "result": [
+            {
+                "entity": "restaurant Zeno",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Wat je daar voorgeschoteld krijgt grenst aan het ongelooflijke !",
+        "result": []
+    },
+    {
+        "sentence": "Van de amuses tot aan de lekkernijen bij de koffie , alles is top !",
+        "result": []
+    },
+    {
+        "sentence": "Wij zijn reeds drie maal gaan eten bij Zeno en telkens was het een culinaire voltreffer .",
+        "result": [
+            {
+                "entity": "Zeno",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Ook als je ( tijdens de week ) het goedkopere menu neemt , worden dezelfde amuses en mignardises geserveerd als bij de grote menu .",
+        "result": []
+    },
+    {
+        "sentence": "Het enige minpuntje voor mij is het kille interieur , maar dat zal me zeker niet weerhouden om nog naar Zeno te gaan .",
+        "result": [
+            {
+                "entity": "interieur",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Door de vlotte en vriendelijke bediening is het er heel aangenaam toeven .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Zeno is een echte aanrader en zeker een Michelinster waardig .",
+        "result": [
+            {
+                "entity": "Zeno",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Gisteravond heerlijk gegeten bij dit restaurantje !",
+        "result": []
+    },
+    {
+        "sentence": "Het ligt een beetje uit het centrum , waardoor het niet vol zit met toeristen .",
+        "result": []
+    },
+    {
+        "sentence": "Het zat bommetje vol , maar gelukkig hadden we gereserveerd .",
+        "result": []
+    },
+    {
+        "sentence": "Dus als je een hapje wilt doen hier , bel van tevoren ff .",
+        "result": []
+    },
+    {
+        "sentence": "Het restaurant is leuk ingericht .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het lijkt alsof je jaren terug gaat in de tijd .",
+        "result": []
+    },
+    {
+        "sentence": "Leuke achtergrond muziek , overal dingetjes aan de wand en geweldige stoelen .",
+        "result": []
+    },
+    {
+        "sentence": "We werden geholpen door een leuke en spontane vrouw !",
+        "result": [
+            {
+                "entity": "vrouw",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Respect voor haar , in je eentje elf tafels lopen is nogal een opgave .",
+        "result": [
+            {
+                "entity": "haar",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Geen moment is ze gehaast over gekomen en nam voor iedereen de tijd .",
+        "result": []
+    },
+    {
+        "sentence": "Wij hadden gekozen voor mosselen en een steak tartare .",
+        "result": []
+    },
+    {
+        "sentence": "Het smaakte heerlijk en de prijs / kwaliteit verhouding is helemaal goed !",
+        "result": []
+    },
+    {
+        "sentence": "Ik kan iedereen dit restaurant van harte aanbevelen .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Uitstekend restaurant .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "We hebben de Vlaamse stoofschotel gekozen en deze bleek geweldig .",
+        "result": [
+            {
+                "entity": "Vlaamse stoofschotel",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Een zeer royale portie en heerlijke Belgische friet !",
+        "result": [
+            {
+                "entity": "portie",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "Belgische friet",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De goed geprijsde huiswijn , die aangeraden werd , paste er excellent bij .",
+        "result": [
+            {
+                "entity": "huiswijn",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Uiterst vriendelijke bediening .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het ligt wel iets buiten het centrum , maar de wandeling wordt beloond met een zeer goede maaltijd .",
+        "result": [
+            {
+                "entity": "maaltijd",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Een aanrader , dit restaurant .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "X en Y",
+        "result": []
+    },
+    {
+        "sentence": "Lekker gegeten .",
+        "result": []
+    },
+    {
+        "sentence": "Zeer attente en vriendelijke bediening .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Hier zou ik zonder nadenken een tweede maal gaan eten .",
+        "result": []
+    },
+    {
+        "sentence": "Ook de wijn was een aanrader .",
+        "result": [
+            {
+                "entity": "wijn",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Brugge is een mooie stad .",
+        "result": []
+    },
+    {
+        "sentence": "De spareribs waren lekker !",
+        "result": [
+            {
+                "entity": "spareribs",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Personeel is erg vriendelijk en goede bediening .",
+        "result": [
+            {
+                "entity": "Personeel",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Nacho ' s vooraf erg lekker ( en veel , kleine portie is makkelijk met 3 personen te eten ) .",
+        "result": [
+            {
+                "entity": "Nacho ' s",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "portie",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Ook vlees is erg lekker .",
+        "result": [
+            {
+                "entity": "vlees",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Vooraf reserveren ! !",
+        "result": []
+    },
+    {
+        "sentence": "Hier wordt de perfectie nagestreefd !",
+        "result": []
+    },
+    {
+        "sentence": "Zalige gebakjes en het brood met rozijnen is perfect ! !",
+        "result": [
+            {
+                "entity": "gebakjes",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "brood met rozijnen",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Vriendelijke bediening , en top patissier ! ! ! !",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "patissier",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "superlekkere , superverse , originele patisserie met een supervriendelijke bediening , meer valt er niet over te zeggen ... en wat betreft de prijs , voor kwaliteit betaal je en in die zin zijn ze zelfs goedkoop : )",
+        "result": [
+            {
+                "entity": "patisserie",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Books en Brunch is fantastisch !",
+        "result": [
+            {
+                "entity": "Books en Brunch",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het ontbijt was overheerlijk , heel vers , ruim voldoende , ruime keuze , heel lekkere koffie en chocomelk .",
+        "result": [
+            {
+                "entity": "ontbijt",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "koffie en chocomelk",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het eten is er dus super .",
+        "result": [
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De bediening heel vlot !",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De gastdame was heel vriendelijk en spontaan !",
+        "result": [
+            {
+                "entity": "gastdame",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het concept is ook leuk !",
+        "result": [
+            {
+                "entity": "concept",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Men zit gezellig tussen de boeken die mooi geordend staan .",
+        "result": []
+    },
+    {
+        "sentence": "De boeken kunnen ook aangekocht worden .",
+        "result": []
+    },
+    {
+        "sentence": "ook leuk !",
+        "result": []
+    },
+    {
+        "sentence": "voor Brugge is dit gezellig restaurant echt een meerwaarde !",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "proficiat voor de uitbaters .",
+        "result": []
+    },
+    {
+        "sentence": "we zijn blij dat we Books en Brunch ontdekt hebben ! ! !",
+        "result": [
+            {
+                "entity": "Books en Brunch",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Books & Brunch is van het beste wat Brugge te bieden heeft .",
+        "result": [
+            {
+                "entity": "Books & Brunch",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Ik ontdekte deze plek toen het recent opende , werd verliefd op dit gezellige en sfeervolle etablissement , en ben het nog steeds .",
+        "result": [
+            {
+                "entity": "etablissement",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het concept is uiteraard iets uniek in Brugge en iets waar je ongeacht de reden van bezoek altijd wel even bij uitdraait om door de boeken te gaan kijken .",
+        "result": [
+            {
+                "entity": "concept",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het eten is lekker , vers en je proeft dat het niet geforceerd is .",
+        "result": [
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De sfeer in Books & Brunch is zo heerlijk , kom je voor een lunch , een koffie of een thee .",
+        "result": [
+            {
+                "entity": "sfeer",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Er heerst een optimale gezelligheid , kalmte en alles wordt niet geforceerd en op het gemak gedaan zonder laks te lijken .",
+        "result": []
+    },
+    {
+        "sentence": "Mevrouw die de zaak uitbaat verdient een vermelding voor de vriendelijkheid .",
+        "result": [
+            {
+                "entity": "Mevrouw",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Heerlijke plek om te komen lunchen met je vriendin , mama of kameraad of om gewoon een lekkere thee of koffie te komen drinken en door een boek te bladeren of met de MacBook of iPhone van de gratis wifi te genieten .",
+        "result": [
+            {
+                "entity": "plek",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "thee of koffie",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Books & Brunch is een echte parel tussen al de toeristische restaurants en cafés die Brugge domineren .",
+        "result": [
+            {
+                "entity": "Books & Brunch",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Leuk tentje , heel vriendelijke bediening , lekkere home made ice tea .",
+        "result": [
+            {
+                "entity": "tentje",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "home made ice tea",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Alleen jammer dat het menu zo beperkt is qua eten , anders hadden we er ook een hapje gegeten .",
+        "result": [
+            {
+                "entity": "menu",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Als vegetariërs is het allesbehalve evident om een goed restaurant te vinden , waar men er niet van uit gaat dat ' vegetarisch ' gewoon wil zeggen dat je het vlees er dan maar uit laat ..",
+        "result": []
+    },
+    {
+        "sentence": "Voor alle mensen met hetzelfde probleem , hier is de oplossing .",
+        "result": []
+    },
+    {
+        "sentence": "Na wat gezocht te hebben op internet hebben wij hier uiteindelijk gereserveerd voor de zondagavond , met 2",
+        "result": []
+    },
+    {
+        "sentence": "Uiteindelijk was het die avond niet druk , maar als ik de andere reviews zo lees , is het toch veiliger om te reserveren !",
+        "result": []
+    },
+    {
+        "sentence": "De bediening was heel vriendelijk en oprecht , en dat is toch echt een stuk aangenamer dan te chique en geforceerd .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De hele avond is er ons ook uitdrukkelijk gevraagd of alles naar wens was , zonder dat de bediening teveel wordt opgedrongen .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Ook de sfeer zorgt voor ontspannen avond .",
+        "result": [
+            {
+                "entity": "sfeer",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij hebben gekozen voor het vegetarisch viergangen menu , en die was het zeker waard !",
+        "result": [
+            {
+                "entity": "vegetarisch viergangen menu",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De amuse was een tapenade van olijven en was echt verassend lekker !",
+        "result": [
+            {
+                "entity": "tapenade van olijven",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Ook hadden we dan al wat brood met olijfolie gekregen , dat binnen de 5 minuten .",
+        "result": []
+    },
+    {
+        "sentence": "Altijd leuk als je niet lang hoeft te wachten !",
+        "result": []
+    },
+    {
+        "sentence": "De twee voorgerechtjes vielen ook in de smaak , maar vooral het voorgerechtje van coeur de boeuf is mij bijgebleven !",
+        "result": [
+            {
+                "entity": "voorgerechtjes",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "voorgerechtje van coeur de boeuf",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Deze werd geserveerd met meloen en is een zeer originele vegetarische variant op de klassieke Spaanse ham met meloen .",
+        "result": []
+    },
+    {
+        "sentence": "Voor het hoofdgerecht , de veganistische lasagne , geldt opnieuw dat hier niet wordt uitgegaan van ' we laten het vlees gewoon weg ' .",
+        "result": [
+            {
+                "entity": "veganistische lasagne",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Dit was echt een volwaardig gerecht , en afgewerkt met een pesto van basilicum , die lekker genoeg was om op zich te eten .",
+        "result": [
+            {
+                "entity": "gerecht",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "pesto van basilicum",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Als dessert dan de vegan chocolade mousse gekozen en hoewel deze inderdaad iets heel anders is dan wat je verwacht , daar waren we voordien vriendelijk voor gewaarschuwd , is het echt een aanrader !",
+        "result": [
+            {
+                "entity": "vegan chocolade mousse",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Echt een pure chocoladesmaak , die super gaat in combinatie met de sinaasappelschijfjes die erbij worden geserveerd .",
+        "result": [
+            {
+                "entity": "chocoladesmaak",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Kortom , als je hier buiten komt heb je echt gegeten voor je geld .",
+        "result": []
+    },
+    {
+        "sentence": "De ruime porties , de gastvrije bediening en de chef die het koken zonder vlees of vis duidelijk onder de knie heeft , zijn de prijs meer dan waard .",
+        "result": [
+            {
+                "entity": "porties",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "chef",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij komen hier in ieder geval nog terug , misschien eens om het mooie terras te testen ?",
+        "result": [
+            {
+                "entity": "terras",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "nooit meer ! ! ! ! ! ! , mijn dieren krijgen beter eten ! ! ! ! , alleen het geld telt blijf er weg en ga elders waar het zeker veel beter is geen prijs / kwaliteit ! ! ! !",
+        "result": []
+    },
+    {
+        "sentence": "dat zoiets in onze mooie stad nog mag open zijn , dat begrijp ik niet",
+        "result": [
+            {
+                "entity": "zoiets",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Als bruggeling een schande om daar iets te drinken .",
+        "result": []
+    },
+    {
+        "sentence": "Cola 40cl € 5,80 , voor de bruggeling € 3 , gelukkig ......",
+        "result": [
+            {
+                "entity": "Cola",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Jupiler 25cl € 4.00 Witte wijn € 7.00 Koffie € 2,50 dit kan nog min of meer door de beugel .",
+        "result": [
+            {
+                "entity": "Jupiler",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "Witte wijn",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "Koffie",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Hopelijk spreken ze de mensen niet aan om er iets te eten want dit is verboden in Brugge .",
+        "result": []
+    },
+    {
+        "sentence": "We gaan dit in de gaten houden .",
+        "result": []
+    },
+    {
+        "sentence": "een aangename plaats om eens een kleinigheid of uitgebreid te gaan eten ! !",
+        "result": [
+            {
+                "entity": "plaats",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "zeer lekker gegeten !",
+        "result": []
+    },
+    {
+        "sentence": "op de kaart diverse Italiaanse gerechten of verschillende soorten salades ook te verkrijgen ! !",
+        "result": [
+            {
+                "entity": "kaart",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "zeker een aanrader ! ! !",
+        "result": []
+    },
+    {
+        "sentence": "Vlotte en vriendelijke bediening , veel en lekker vlees , sausjes , frietjes en groentjes a volonte .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "vlees",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "sausjes",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "frietjes",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "groentjes",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Een echte aanrader !",
+        "result": []
+    },
+    {
+        "sentence": "Ontdekking .",
+        "result": []
+    },
+    {
+        "sentence": "Zelfs voor culinair verwende mensen als wij zijn .",
+        "result": []
+    },
+    {
+        "sentence": "En kids welkom .",
+        "result": []
+    },
+    {
+        "sentence": "Die combinatie is vr ons met tweelimg van 6 super .",
+        "result": []
+    },
+    {
+        "sentence": "zeg dat ik het zei ! ! ! !",
+        "result": []
+    },
+    {
+        "sentence": "De soep van het dagmenu stond stijf van het zout .",
+        "result": [
+            {
+                "entity": "soep",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Een scheutje warm water werd als oplossing aangeboden .",
+        "result": []
+    },
+    {
+        "sentence": "De vis was wel lekker , maar een roosje broccoli was alle groente .",
+        "result": [
+            {
+                "entity": "vis",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "groente",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Bij het afruimen werd er saus over mijn kleding geknoeid .",
+        "result": []
+    },
+    {
+        "sentence": "Geen fatsoenlijke excuses aangeboden of kleine compensatie .",
+        "result": []
+    },
+    {
+        "sentence": "Ga er met een grote boog omheen .",
+        "result": []
+    },
+    {
+        "sentence": "Nog nooit in zo een vuil en ongeordend mcdonalds restaurant geweest zeker een afrader .",
+        "result": [
+            {
+                "entity": "mcdonalds restaurant",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ze zouden deze zaak moeten sluiten",
+        "result": [
+            {
+                "entity": "zaak",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "We gingen om er snel onze honger te stillen , maar we moesten lang wachten op 5 hamburger : 15 20 minuten .",
+        "result": []
+    },
+    {
+        "sentence": "Voor de rest viel het ons op dat niet de hele prijskaart ( zoals eurodeals ) ergens duidelijk stond .",
+        "result": [
+            {
+                "entity": "prijskaart",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "een zeer vettige en vuile zaak , reclame voor 1.3 kilo is maar 600 gram alles is daar slecht normaal een 0",
+        "result": [
+            {
+                "entity": "zaak",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "reeds meerdere keren merkte ik dat de zwartharige lesbische ober wisselgeld \" per ongeluk \" te weinig teruggeeft .",
+        "result": [
+            {
+                "entity": "zwartharige lesbische ober",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ook aan de tafel achter hoorde ik de mensen reclameren dat ze tien euro tekort hadden terug gekregen .",
+        "result": []
+    },
+    {
+        "sentence": "Dit is geen toeval meer .",
+        "result": []
+    },
+    {
+        "sentence": "Veel nostalgie in dit restaurant waar ondermeer karnemelkstampers op de kaart staan .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Menu aan een aantrekkelijke prijs .",
+        "result": [
+            {
+                "entity": "Menu",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Veel trappen niet zo handig voor mensen met locomotorische problemen .",
+        "result": []
+    },
+    {
+        "sentence": "Heel vriendelijke mensen .",
+        "result": [
+            {
+                "entity": "mensen",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Sinds we in Knokke een tweede huisje hebben ben in naarstig op zoek naar een leuk lunchrestaurant / brasserie .",
+        "result": []
+    },
+    {
+        "sentence": "Kaart zag er goed uit , tafels netjes ingedekt .",
+        "result": [
+            {
+                "entity": "Kaart",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "tafels",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Eten te duur voor wat op tafel kwam .",
+        "result": [
+            {
+                "entity": "Eten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "De kip was erg goed , de sla kon een betere mix zijn en de frietjes vond ik gewoon niet lekker .",
+        "result": [
+            {
+                "entity": "kip",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "sla",
+                "sentiment": "neutral"
+            },
+            {
+                "entity": "frietjes",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Het afrekenen duurde erg lang terwijl het niet druk was in de zaak .",
+        "result": []
+    },
+    {
+        "sentence": "Verder zoeken naar een lunchadres dus .",
+        "result": []
+    },
+    {
+        "sentence": "vriendelijk onthaal , druk op deze zaterdagavond .",
+        "result": [
+            {
+                "entity": "onthaal",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Menu aan heel aanvaardbare prijs .",
+        "result": [
+            {
+                "entity": "Menu",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Garnaalkroketjes in huis gemaakt .",
+        "result": [
+            {
+                "entity": "Garnaalkroketjes",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Halve kreeft wat minimaal van portie .",
+        "result": [
+            {
+                "entity": "Halve kreeft",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Snelle ( té ? ) bediening .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "We kregen wat we verwachtten maar ook niet meer .",
+        "result": []
+    },
+    {
+        "sentence": "De lunchmenu is prijs kwaliteit zeer goed .",
+        "result": [
+            {
+                "entity": "lunchmenu",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Goede keuze en grote porties .",
+        "result": [
+            {
+                "entity": "keuze",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "porties",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Garnaalkroket waarbij je niet naar de garnalen moet zoeken .",
+        "result": [
+            {
+                "entity": "Garnaalkroket",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Vriendelijke bediening , en lekkere olijven bij de apero ; )",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "olijven",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Kortom : echt een aanrader en herhaling waard .",
+        "result": []
+    },
+    {
+        "sentence": "Tijdens het vuurwerkfestival in Knokke is het altijd druk .",
+        "result": []
+    },
+    {
+        "sentence": "Ook het terras van de Lodge zit goed gevuld .",
+        "result": []
+    },
+    {
+        "sentence": "Bij het vinden van een plaatsje worden we prompt succes gewenst door onze tafelburen .",
+        "result": []
+    },
+    {
+        "sentence": "Toen we de ober riepen , komt hij onze bestelling opnemen , maar toen bleek dat we nieuwe cliënten waren , annuleerde hij de opgenomen bestelling en zei hij ons datchij eerst zijn bestaande cliënten zal bedienen , voor hij ons zal bedienen .",
+        "result": [
+            {
+                "entity": "ober",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Bij het aanroepen van een 2e ober , hadden we nog minder succes want deze kent de Nederlandse taal niet en liep daar voor spek en bonen .",
+        "result": [
+            {
+                "entity": "ober",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Na een kwartiertje gedulde te hebben gezien de drukte van de avond , en het merkelijk onderbemande personeel en al een 4 tal tafeltjes terug te zien vertrekken hebben , komt de ober onze overvolle tafel opruimen , waarbij wij een 3e poging doen om te bestellen , en de ober ons na 30min geduld te hebben gehad aanmaant om nog een 15 tal minuten te willen wachten .",
+        "result": [
+            {
+                "entity": "ober",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Hij speelt liever het spelletje \" pest de keuken \" , waarbij hij eerst al zijn tafels wil afruimen , om dan in 5 minuten tijd de bestelling van eten en drinken te gaan opnemen van een 15 tal nieuwe tafels .",
+        "result": []
+    },
+    {
+        "sentence": "Tof voor de kok en ook tof voor zichzelf , zo gaat hij 15 gerechten tegelijk mogen opdienen , 15 tafels tegelijk voorzien van drank , en 15 tafels tegelijk terug mogen afruimen .",
+        "result": []
+    },
+    {
+        "sentence": "Aangezien we toch heel wat geduld hebben gehad , hadden we gehoopt op een prijs van \" boiling points \" maar helaas .",
+        "result": []
+    },
+    {
+        "sentence": "Na de dijk verder af te lopen zijn we dan maar gestopt bij het volgende restaurant \" waterl ' eau \" waar we direct mochten plaatsnemen indien we ook iets zouden eten gezien het massa volk die avond .",
+        "result": []
+    },
+    {
+        "sentence": "Wij kregen prompt onze aperitief , werden vriendelijk bediend , en kregen snel ons eten .",
+        "result": []
+    },
+    {
+        "sentence": "Enkele minuten later zagen we de helft van het terras van ' the lodge ' op ons terras bij \" waterl ' eau ' nestelen .",
+        "result": []
+    },
+    {
+        "sentence": "The lodge daar ga ik nooit meer .",
+        "result": [
+            {
+                "entity": "The lodge",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ondanks de leeftijd van de ober , zou je de indruk moeten hebben dat hij al heel wat ervaring had , echter zo ' n uithangbord zou ik niet willen hebben in mijn zaak .",
+        "result": [
+            {
+                "entity": "ober",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Daarnaast zou de zaak ook moeten inzien dat 1 ober voor zo ' n terras onhaalbaar is !",
+        "result": []
+    },
+    {
+        "sentence": "Als ik 40 minuten moet wachten op 1 drankje of op mijn eten dan denk ik niet dat dit nog normaal is .",
+        "result": []
+    },
+    {
+        "sentence": "Na een fietstocht in de Westhoek lekker gegeten bij Capella .",
+        "result": []
+    },
+    {
+        "sentence": "Een beetje weg van de drukte van de Grote Markt .",
+        "result": []
+    },
+    {
+        "sentence": "Op ons verzoek werd een tafel gedekt op het terras .",
+        "result": []
+    },
+    {
+        "sentence": "Een verrassend lekker hapje bij het aperitief en heerlijke salade met scampi .",
+        "result": [
+            {
+                "entity": "hapje",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "salade met scampi",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Voor herhaling vatbaar .",
+        "result": []
+    },
+    {
+        "sentence": "Wij hebben hier PRIMA gegeten , prima bediening .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Het eten was heel GOED , een hele goede prijs / kwaliteit verhouding .",
+        "result": [
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Voor de 2de keer dit jaar gereserveerd in dit super restaurant .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Deze keer met een groep vrienden .",
+        "result": []
+    },
+    {
+        "sentence": "Zoals elke keer is het hier genieten van sublieme smaakcombinaties en heerlijk bijpassende wijnen .",
+        "result": [
+            {
+                "entity": "smaakcombinaties",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bijpassende wijnen",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Telkens opnieuw zijn we verrast door de uitzonderlijk verfijnde keuken .",
+        "result": [
+            {
+                "entity": "keuken",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "een toffe sfeer , zonder veel tralala , lekker eten voor een beste prijs kwaliteit .",
+        "result": [
+            {
+                "entity": "sfeer",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Enig minpuntje , soms luidruchtig als er grote gezelschappen aan een tafel zitten .",
+        "result": []
+    },
+    {
+        "sentence": "maar ja , dat is dan studentikoos , en dat neem je erbij .",
+        "result": []
+    },
+    {
+        "sentence": "Wat eerst leuk leek , werd een verbijsterend slechte ervaring .",
+        "result": []
+    },
+    {
+        "sentence": "Mosselen aan 15 € ?",
+        "result": []
+    },
+    {
+        "sentence": "Vergeet het maar !",
+        "result": []
+    },
+    {
+        "sentence": "Voor minder dan 20 € krijg je ze niet .",
+        "result": []
+    },
+    {
+        "sentence": "We werden binnengeleid door een man die ons nogal bazig en bars met het vingertje gebood om in het gevulde deel van het resto plaats te nemen .",
+        "result": [
+            {
+                "entity": "man",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Die man beviel me echt niet .",
+        "result": [
+            {
+                "entity": "man",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Rondkijkend in de zaal besloot ik om geen mosselen te eten en ook geen steak .",
+        "result": []
+    },
+    {
+        "sentence": "Ik vertrouwde het zaakje meteen niet .",
+        "result": [
+            {
+                "entity": "zaakje",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ik opteerde voor een spaghetti en een karafje wijn die zuur smaakte .",
+        "result": [
+            {
+                "entity": "karafje wijn",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ik weet niet wat ik gegeten heb maar het leek me niet koosjer .",
+        "result": []
+    },
+    {
+        "sentence": "De klap op de vuurpijl kwam toen ik wou afrekenen met bancontact of visa .",
+        "result": []
+    },
+    {
+        "sentence": "Dat was niet mogelijk volgens de baas .",
+        "result": []
+    },
+    {
+        "sentence": "Het moest cash zijn .",
+        "result": []
+    },
+    {
+        "sentence": "Ja , daar heb je het , dacht ik ...",
+        "result": []
+    },
+    {
+        "sentence": "Bedriegers van de eerste orde .",
+        "result": []
+    },
+    {
+        "sentence": "Ik liet mijn vrouw en kind dus achter om 500 meter te stappen om baar geld af te halen .",
+        "result": []
+    },
+    {
+        "sentence": "Toen ik de eigenares erop attent maakte dat dit zeer louche praktijken zijn , maakte ze een scene en weigerde ze om me wisselgeld te geven .",
+        "result": [
+            {
+                "entity": "eigenares",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ik dacht dat ik die nacht ziek zou worden .",
+        "result": []
+    },
+    {
+        "sentence": "Ik vroeg herhaaldelijk aan mijn vrouw ' wat heb ik nu eigenlijk gegeten ?",
+        "result": []
+    },
+    {
+        "sentence": "Ik zou het wel eens willen weten ! ' .",
+        "result": []
+    },
+    {
+        "sentence": "Dit restaurant is geen afrader .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Zo ' n plekken moeten ze gewoon onmiddellijk sluiten .",
+        "result": [
+            {
+                "entity": "plekken",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Niks goed aan .",
+        "result": []
+    },
+    {
+        "sentence": "Vreselijk !",
+        "result": []
+    },
+    {
+        "sentence": "Dit was mijn grootste tegenvaller ooit op gebied van take away .",
+        "result": [
+            {
+                "entity": "take away",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "We logeerden in Sunparks en wilden een pizza uithalen in Nieuwpoort .",
+        "result": []
+    },
+    {
+        "sentence": "Het pizzadeeg was goed , maar de topping en zeker de prijs was een tegenvaller .",
+        "result": [
+            {
+                "entity": "pizzadeeg",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "topping",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "De pizza was zeer slecht gevuld en de smaak was zeer flauw .",
+        "result": [
+            {
+                "entity": "pizza",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ook diende ik de prijzen te betalen van het restaurant terwijl afhaalpizza goedkoper was in de folder .",
+        "result": [
+            {
+                "entity": "afhaalpizza",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Ik had dit pas gezien toen ik aankwam in het huisje van Sunparks .",
+        "result": []
+    },
+    {
+        "sentence": "Dit was voor mij de grootste tegenvaller ooit en hier ga ik zeker niet meer terug !",
+        "result": []
+    },
+    {
+        "sentence": "hadden er een brunch besteld , eten was tiptop , drank genoeg .",
+        "result": [
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "drank",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "andere mensen zaten precies ook aan ons eten",
+        "result": []
+    },
+    {
+        "sentence": "Het oude café was gezellig en eerlijk .",
+        "result": []
+    },
+    {
+        "sentence": "Nu is het een refter zonder karakter .",
+        "result": []
+    },
+    {
+        "sentence": "Om 23.30h worden de stoelen onderste boven op tafel gezet .",
+        "result": []
+    },
+    {
+        "sentence": "Een teken dat je stilaan mag gaan vertrekken .",
+        "result": []
+    },
+    {
+        "sentence": "Een half en half is slechts 1 / 3de tripel aangevuld met trappist uit het vat .",
+        "result": [
+            {
+                "entity": "half en half",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "En het is hier veel te duur .",
+        "result": []
+    },
+    {
+        "sentence": "Spijtig dat dit zo geëvolueerd is ...",
+        "result": []
+    },
+    {
+        "sentence": "Over de smaak van het eten kan ik weinig zeggen , maar de borrelhapjes zijn nogal duur in verhouding .",
+        "result": [
+            {
+                "entity": "eten",
+                "sentiment": "neutral"
+            },
+            {
+                "entity": "borrelhapjes",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij zijn meer dan tevreden over onze avond in de Gempemolen .",
+        "result": [
+            {
+                "entity": "Gempemolen",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "We werden hartelijk onthaald en de hele avond zéér vriendelijk bediend .",
+        "result": []
+    },
+    {
+        "sentence": "We kozen na de soep met z ' n vieren voor het zwijnshaasje : sappig en met allerlei lekkere groentjes .",
+        "result": [
+            {
+                "entity": "zwijnshaasje",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "groentjes",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Eén iemand koos een vegetarische schotel en ook zij was heel enthousiast .",
+        "result": [
+            {
+                "entity": "vegetarische schotel",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "We kregen alle tijd om rustig te eten en genoten er echt van .",
+        "result": []
+    },
+    {
+        "sentence": "Het dessert was de kers op de taart .",
+        "result": [
+            {
+                "entity": "dessert",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Prijs / kwaliteit een dikke aanrader ! ! !",
+        "result": []
+    },
+    {
+        "sentence": "Ondanks dat deze Brasserie uitgebaat wordt door de Meus Clan voldoet ze niet aan de verwachtingen .",
+        "result": [
+            {
+                "entity": "Brasserie",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Omgeving en interieur zijn meer dan ok , eten is om minder enthousiast over te zijn .",
+        "result": [
+            {
+                "entity": "Omgeving",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "interieur",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "eten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Jammer",
+        "result": []
+    },
+    {
+        "sentence": "Je vindt hier lekkere gerechten met veel kunde en enthousiasme bereid en opgediend met stijl .",
+        "result": [
+            {
+                "entity": "gerechten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het behalen van een Michelinster is Lieven en Iris niet naar het hoofd gestegen .",
+        "result": [
+            {
+                "entity": "Lieven en Iris",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De prijzen zijn steeds correct en zelfs zeer schappelijk gebleven .",
+        "result": []
+    },
+    {
+        "sentence": "Kortom : allen daarheen !",
+        "result": []
+    },
+    {
+        "sentence": "Ondanks we niet reserveerden kregen we op een drukke avond toch een tafeltje .",
+        "result": []
+    },
+    {
+        "sentence": "Het eten was op een aanvaardbare tijd opgediend , en alles was volgens de verwachtingen .",
+        "result": [
+            {
+                "entity": "eten",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Misschien opteren om iets minder lompe frieten te serveren ( zonder meerprijs : ) )",
+        "result": [
+            {
+                "entity": "frieten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Voor de rest was alles naar wens .",
+        "result": []
+    },
+    {
+        "sentence": "We kregen een superlekkere schotel voorgeschoven in geen tijd .",
+        "result": [
+            {
+                "entity": "schotel",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het was allemaal vers en zeker voldoende .",
+        "result": []
+    },
+    {
+        "sentence": "De bediening was zeer vriendelijk .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Bij binnenkomst niet heel vriendelijke ontvangen .",
+        "result": []
+    },
+    {
+        "sentence": "het was vrij druk .",
+        "result": []
+    },
+    {
+        "sentence": "eigenaar ging ongelofelijk Tekeer tegen zijn personeel .",
+        "result": [
+            {
+                "entity": "eigenaar",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "We zijn met zijn zessen daarop meteen vertrokken .",
+        "result": []
+    },
+    {
+        "sentence": "Door omstandigheden ben ik hier met verschillende vrienden drie maal geweest in de loop van een paar weken en heb zowel een lunch ( buiten ) , a la carte en een menu kunnen proeven .",
+        "result": []
+    },
+    {
+        "sentence": "Iedereen was het er over eens dat Le Kok werkelijk een bijzondere aanwinst is in de omgeving van De Haan .",
+        "result": [
+            {
+                "entity": "Le Kok",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De chef heeft duidelijk een gulden middenweg gevonden om de niet alleen mooie presentaties voor te schotelen , maar om ook de smaken uitstekend te doceren .",
+        "result": [
+            {
+                "entity": "chef",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Werkelijk zeer verfijnd in alle opzichten .",
+        "result": []
+    },
+    {
+        "sentence": "Het interieur is mooi en rustig .",
+        "result": [
+            {
+                "entity": "interieur",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Hoewel niet aangegeven , kan men parkeren bij het naastgelegen planten en tuin bedrijf .",
+        "result": []
+    },
+    {
+        "sentence": "De prijs / kwaliteit verhouding is goed .",
+        "result": []
+    },
+    {
+        "sentence": "Zeer professionele gast vrouw en goede bediening , hoewel eenmaal het principe , first in , first served niet toegepast werd waarschijnlijk door de drukte .",
+        "result": [
+            {
+                "entity": "gast vrouw",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het is jammer dat ook hier , de vaker voorkomende regel geld : dat met vier of allemaal à la carte of allemaal menu kiest .",
+        "result": []
+    },
+    {
+        "sentence": "Maar dit zal mij er niet van weerhouden om zeker terug te komen .",
+        "result": []
+    },
+    {
+        "sentence": "Hier hebben we heel lekker gegeten .",
+        "result": []
+    },
+    {
+        "sentence": "Restaurant met open keuken en rustig kader .",
+        "result": [
+            {
+                "entity": "Restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Komen hier zeker terug .",
+        "result": []
+    },
+    {
+        "sentence": "Mosselen met frietjes besteld , frietjes ronduit slap en vet , geen mosselsaus omdat de chef slechtgezind was , mayo met brokken , ... m ijn man was nog braaf !",
+        "result": [
+            {
+                "entity": "frietjes",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "mosselsaus",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "chef",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "mayo",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "na nog n keer vrage krege we azijn met wat dressing in , nog eens terug en mayo gevraagd en krege we mayo met brokken en toestande , nog es terug , mijn man zegt jamaar klant is toch nog altijd koning , onbeschoft en het antwoord van de chef , jamaar ik ben keizer !",
+        "result": [
+            {
+                "entity": "mayo",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "chef",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "dan bleef hij roepen !",
+        "result": []
+    },
+    {
+        "sentence": "en man zegt as da zo zit zijn we gewoon weg !",
+        "result": []
+    },
+    {
+        "sentence": "man komt buiten , ik zeg braaf kom de kindere hebben honger , eet maar gewoon , komt ene buitegevloge , nu betale !",
+        "result": [
+            {
+                "entity": "ene",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "nu betale ! !",
+        "result": []
+    },
+    {
+        "sentence": "8 € ! ! !",
+        "result": []
+    },
+    {
+        "sentence": "man zegt we zijn nog aan t ete !",
+        "result": []
+    },
+    {
+        "sentence": "die begint met stoele te gooie ! ! ! ! ! ! !",
+        "result": []
+    },
+    {
+        "sentence": "man betaald en garcon pakt alle ete weg ! ! ! ! !",
+        "result": [
+            {
+                "entity": "garcon",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "toen ineens alle bediening , baas en chef langs ons ! ! ! ! !",
+        "result": []
+    },
+    {
+        "sentence": "baas met baseballknuppel langs mij ! ! ! ! ! ! ! ! ! !",
+        "result": [
+            {
+                "entity": "baas",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": ".. 80 € kwijt , avond naar de vaantjes en ouders en kinderen geshoqueerd ! ! !",
+        "result": []
+    },
+    {
+        "sentence": "Het eten was super , kon niet beter !",
+        "result": [
+            {
+                "entity": "eten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Misschien 1 minpuntje de dame vroeg enkel aan mij of ik een koffie wou ( alhoewel wij met 4 waren zonder aan de andere tafelgenoten ook die vraag te stellen , ze was ook wat vlug weg ) dus iedereen kreeg koffie .",
+        "result": [
+            {
+                "entity": "dame",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Het personeel moet zich wel nog wat rustiger gedragen .",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Anders top !",
+        "result": []
+    },
+    {
+        "sentence": "Mooi gezellig restaurant .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Eten was perfect , niets op aan te merken .",
+        "result": [
+            {
+                "entity": "Eten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Heel vriendelijke service .",
+        "result": [
+            {
+                "entity": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De frietjes zijn handgesneden .",
+        "result": [
+            {
+                "entity": "frietjes",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij keren zeker terug",
+        "result": []
+    },
+    {
+        "sentence": "We werden er vriendelijk ontvangen , het restaurant is stemmig ingericht .",
+        "result": [
+            {
+                "entity": "restaurant",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Bij het aperitief kwamen een hele reeks prachtige en lekkere hapjes .",
+        "result": [
+            {
+                "entity": "hapjes",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Het menu zelf was van hetzelfde niveau , zonder één minpuntje .",
+        "result": [
+            {
+                "entity": "menu",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Mijn vrouw vroeg aangepaste wijn in kleine hoeveelheden , wat ze spontaan serveerden , en achteraf een zeer correcte prijs voor rekenden .",
+        "result": [
+            {
+                "entity": "aangepaste wijn",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Chapeau voor alles !",
+        "result": []
+    },
+    {
+        "sentence": "Genoten van een heerlijke avond in The Bistronomy !",
+        "result": [
+            {
+                "entity": "The Bistronomy",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Verrassende smaakcombinaties prachtig gepresenteerd op het perfecte bord !",
+        "result": [
+            {
+                "entity": "smaakcombinaties",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Op zoek naar een unieke totaalervaring ?",
+        "result": []
+    },
+    {
+        "sentence": "This is THE place to be !",
+        "result": [
+            {
+                "entity": "This",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Ons gezelschap heeft mogen kennismaken met de verrassende kunstjes van de robot gastvrouw , nooit eerder gezien !",
+        "result": [
+            {
+                "entity": "robot gastvrouw",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Dit is mijn 2e beoordeling .",
+        "result": []
+    },
+    {
+        "sentence": "Deze keer afgrijselijk .",
+        "result": []
+    },
+    {
+        "sentence": "We zaten er vanaf 19.30 en om 22h komen ze zeggen dat ze uw bestelling vergeten is .",
+        "result": []
+    },
+    {
+        "sentence": "Dus na al die negatieve beoordelingen .",
+        "result": []
+    },
+    {
+        "sentence": "Laat het links liggen .",
+        "result": []
+    },
+    {
+        "sentence": "Het meisje was altijd aan het 3xcuses a h geven .",
+        "result": [
+            {
+                "entity": "meisje",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Maar er is geen manager",
+        "result": []
+    },
+    {
+        "sentence": "Korte samenvatting : ongemanierde , onprofessionele bediening en zeer slecht eten ( volgende dag ziek ) .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "eten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "We gingen vaker naar de Chi Chi ' s keten ... lees verder",
+        "result": []
+    },
+    {
+        "sentence": "Korte samenvatting : ongemanierde , onprofessionele bediening en zeer slecht eten ( volgende dag ziek ) .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "eten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "We gingen vaker naar de Chi Chi ' s keten in andere gemeenten en waren over het algemeen tevreden .",
+        "result": []
+    },
+    {
+        "sentence": "Chi Chi ' s Wemmel opende recent zijn deuren , misschien daardoor dat de kwaliteit zo laag is .",
+        "result": [
+            {
+                "entity": "Chi Chi ' s Wemmel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Tip aan de uitbater : opleiding geven aan personeel ( zowel keuken als zaal ) indien u de zaak open wenst te houden .",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Triest om daar te gaan eten !",
+        "result": []
+    },
+    {
+        "sentence": "Wij waren daar met een Flair bon ( buffet + alcoholvrije cocktail voor € 8 ) .",
+        "result": []
+    },
+    {
+        "sentence": "Wij kwamen toe en hebben eerst een vijftal minuten moeten wachten tot er überhaupt iets van personeel in de zaal rondliep .",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij hadden gereserveerd en wilden dus graag weten waar wij mochten zitten .",
+        "result": []
+    },
+    {
+        "sentence": "Uiteindelijk mochten wij zelf kiezen en zijn we maar gaan zitten aan de enige tafel waar geen vuile borden meer op tafel stonden en waar de tafels afgekuist waren .",
+        "result": []
+    },
+    {
+        "sentence": "Dit vonden wij al vrij onaangenaam .",
+        "result": []
+    },
+    {
+        "sentence": "Dan mochten we nog eens een kwartier wachten tot er ( Franstalige ... ) kaarten werden gebracht .",
+        "result": []
+    },
+    {
+        "sentence": "Dan nog eens 20 minuten vooraleer het personeel gedaan had met praten en tijd had om onze bestelling op te nemen .",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij hadden aldus het buffet en een alcoholvrije cocktail genomen .",
+        "result": []
+    },
+    {
+        "sentence": "De cocktail hebben wij gekregen toen wij bijna klaar waren met eten ( en wij zijn heus geen snelle eters ) .",
+        "result": []
+    },
+    {
+        "sentence": "Het buffet was zielig .",
+        "result": [
+            {
+                "entity": "buffet",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Keuze uit 5 warme gerechten en een zestal koude gerechten .",
+        "result": []
+    },
+    {
+        "sentence": "Bijna alles was op , en wat overbleef was uitgedroogd , aangebakken , ofwel al koud .",
+        "result": []
+    },
+    {
+        "sentence": "Nadat wij ons eerste bord hadden leeggegeten , wilden wij graag nog eens gaan opscheppen .",
+        "result": []
+    },
+    {
+        "sentence": "Dit kon niet want ALLES was op .",
+        "result": []
+    },
+    {
+        "sentence": "En wij hadden de eerste keer al niet veel kunnen nemen omdat er al niet veel was .",
+        "result": []
+    },
+    {
+        "sentence": "Mijn vriend is meerdere keren in het Nederlands gaan vragen wanneer het ging bijgevuld worden , om dan maar te horen te krijgen dat het personeel geen Nederlands verstaat ..",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Daarna maar in het Frans geprobeerd en dan gingen zij \" kijken of er nog kon bijgevuld worden \" .",
+        "result": []
+    },
+    {
+        "sentence": "Wij waren het wachten na meer dan een halfuur beu en wij zijn met razende honger vertrokken .",
+        "result": []
+    },
+    {
+        "sentence": "Bovendien zijn wij allebei nog 3 dagen ziek geweest doordat het voedsel overduidelijk niet op een hygiënische temperatuur wordt gehouden in het buffet .",
+        "result": [
+            {
+                "entity": "voedsel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Verder ook zeer ontevreden over het personeel .",
+        "result": [
+            {
+                "entity": "personeel",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Er was een meisje dat onze tafel expres oversloeg ( en soms gewoon stond te nietsen ) omdat zij geen Nederlands wou praten .",
+        "result": [
+            {
+                "entity": "meisje",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "En dit terwijl er overal nog vuile borden stonden en wij al zeer lang aan het wachten waren .",
+        "result": []
+    },
+    {
+        "sentence": "Bovendien waren de servetten op onze tafel al gebruikt en gewoon weer opgevouwen en waren de kaarten zeer plakkerig .",
+        "result": [
+            {
+                "entity": "servetten",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "kaarten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Eerste en laatste keer geweest !",
+        "result": []
+    },
+    {
+        "sentence": "Heel leuk , perfekte bediening , zeer verfijnde gerechten !",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "gerechten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "De gastvrouw is supervriendelijk .",
+        "result": [
+            {
+                "entity": "gastvrouw",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Wij gaan zeker terug .",
+        "result": []
+    },
+    {
+        "sentence": "Persoon X uit Y.",
+        "result": []
+    },
+    {
+        "sentence": "Vandaag een verjaardagsfeestje .",
+        "result": []
+    },
+    {
+        "sentence": "Dus gezellig samen uit eten .",
+        "result": []
+    },
+    {
+        "sentence": "Tafel gereserveerd en dan genieten maar , dachten we .",
+        "result": []
+    },
+    {
+        "sentence": "Om 18 uur aan tafel .",
+        "result": []
+    },
+    {
+        "sentence": "Nadat we zelf de menukaarten hadden gevonden hebben we om half zeven maar eens gevraagd of we konden bestellen .",
+        "result": []
+    },
+    {
+        "sentence": "Tien minuten later nog maar eens gevraagd .",
+        "result": []
+    },
+    {
+        "sentence": "Het voorgerecht was ok .",
+        "result": [
+            {
+                "entity": "voorgerecht",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence": "Op het hoofdgerecht hebben dan nog drie kwartier kunnen wachten na meermaals navragen .",
+        "result": []
+    },
+    {
+        "sentence": "Kleine porties , half rauw vlees , kortom : waardeloos .",
+        "result": [
+            {
+                "entity": "porties",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "vlees",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "De salade verlept , de frieten uit de diepvries .",
+        "result": [
+            {
+                "entity": "salade",
+                "sentiment": "negative"
+            },
+            {
+                "entity": "frieten",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "De bediening is onvriendelijk , begint altijd met de gasten te discussiëren .",
+        "result": [
+            {
+                "entity": "bediening",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Mijn tweede Leefe uit het vatkwam in een flesje !",
+        "result": [
+            {
+                "entity": "Leefe",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Kortom : echt waardeloos .",
+        "result": []
+    },
+    {
+        "sentence": "Nooit meer .",
+        "result": []
+    },
+    {
+        "sentence": "we waren met een ruime groep maar de verschillende keuzes van de deelnemers waren vooraf doorgegeven .",
+        "result": []
+    },
+    {
+        "sentence": "het bladerdeegbakje van het koninginnenhapje was top de rest was niet om over naar huis te schrijven prefab gehakballetjes , weinig saus , geen champignon te bespeuren , een beetje kip de frieten waren beneden alle peil , smakeloos karton er zijn voldoende andere mogelijkheden in de buurt , zeker als je met een klein gezelschap bent ook voor grotere gezelschappen moet er binnen Maaseik een beter alternatief zijn .",
+        "result": [
+            {
+                "entity": "rest",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "sentence": "Mooie rustige inrichting , prachtig bestek , attente bediening , maar vooral heel lekkere gerechten !",
+        "result": [
+            {
+                "entity": "inrichting",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bestek",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "bediening",
+                "sentiment": "positive"
+            },
+            {
+                "entity": "gerechten",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "sentence": "Met het 5 gangen zou ik meer dan voldoende heb en gehad maar we zijn dan toch voor de 7 gegaan met aangepaste wijnen .",
+        "result": []
+    }
+]
